@@ -1,0 +1,5 @@
+.list-item-header {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+}
